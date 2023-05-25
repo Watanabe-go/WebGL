@@ -1,3 +1,0 @@
-# WebGL
-
-/index.html
